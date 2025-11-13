@@ -1,4 +1,4 @@
-from src.mokumind import pretty_recommendation
+from mokumind import pretty_recommendation
 
 def main():
     # Example: rushdown, flashy, beginner-friendly character suggestions
